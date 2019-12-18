@@ -1,0 +1,15 @@
+ArcCho99846
+
+ls
+cd
+mkdir
+rm
+rm -rf
+git init
+git status
+git add
+git add .
+git rm -f
+git rm --cached
+git config --global user .email
+git config --global user .name
