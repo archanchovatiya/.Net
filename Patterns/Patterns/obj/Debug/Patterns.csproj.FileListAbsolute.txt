@@ -1,0 +1,5 @@
+D:\DotNetProjects\DotNetSolution\Patterns\Patterns\bin\Debug\Patterns.exe.config
+D:\DotNetProjects\DotNetSolution\Patterns\Patterns\bin\Debug\Patterns.exe
+D:\DotNetProjects\DotNetSolution\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\DotNetProjects\DotNetSolution\Patterns\Patterns\obj\Debug\Patterns.exe
+D:\DotNetProjects\DotNetSolution\Patterns\Patterns\obj\Debug\Patterns.pdb
